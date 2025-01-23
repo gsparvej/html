@@ -1,0 +1,35 @@
+
+body{
+    background-color: beige;
+}
+input[type=submit]
+{
+    background-color: rgb(161, 175, 175);
+    
+}
+input[type=password]{
+    background-color: rgb(206, 146, 102);
+    width: 30%;
+    height: 4vh;
+}
+.textfield{
+    background-color: rgb(64, 64, 102);
+    width: 30%;
+    height: 4vh;
+
+}
+
+.parvej{
+    background-color: aqua;
+    width: 30%;
+    height: 15vh;
+}
+#dob {
+    background-color: darkolivegreen;
+    width: 30%;
+    height: 4vh;
+}
+input[type=submit]:hover{
+    background-color: black;
+    color: brown;
+}
